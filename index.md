@@ -20,3 +20,9 @@ int main() {
 }
 ```
 
+### Other languages to add
+
+- [ ] Ruby
+- [ ] Javascript
+- [ ] Golang
+- [ ] Rust
