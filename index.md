@@ -7,13 +7,13 @@
 ### Some code snippets
 
 #### Java 
-```
+``` java
 public static void main(String[] args) {
   System.out.println("Hello World!");
 }
 ```
 #### C++
-```
+``` cpp
 int main() {
   std::cout << "Hello World!" << std::endl;
   return 0;
